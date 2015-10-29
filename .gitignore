@@ -1,0 +1,28 @@
+# Compiled Code  Maven#
+*.class
+target/
+
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Intellij
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Log Files #
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+build/
+bin
+*.ipr
+
